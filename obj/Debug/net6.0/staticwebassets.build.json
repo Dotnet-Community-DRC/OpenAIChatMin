@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4tZLQCV2WpKgN0+OIDEdKd5yMrKhwdPsQwZb+ShXS2U=",
+  "Source": "OpenAIChatMin",
+  "BasePath": "_content/OpenAIChatMin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
